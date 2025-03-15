@@ -1,0 +1,29 @@
+body{
+  text-align: center;
+  padding: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.btn{
+  height: 200px;
+  width: 200px;
+  border-radius: 20%;
+  border: 10px solid black;
+  margin: 2.5rem;
+}
+.button-container{
+  display: flex;
+  justify-content: center;
+  
+}
+.btn-red{
+background-color: #d95980;
+}
+.btn-yellow{
+background-color: #f99b45;
+}
+.btn-green{
+background-color: #63aac0;
+}
+.btn-purple{
+background-color: #819ff9;
+}
